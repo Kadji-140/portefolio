@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "titre": "Philip — Web & Mobile Developer | Cameroon"
+  },
+  "nav": [
+    { "id": "apropos", "l": "About" },
+    { "id": "services", "l": "Services" },
+    { "id": "methode", "l": "Method" },
+    { "id": "projets", "l": "Projects" },
+    { "id": "processus", "l": "Process" }
+  ],
+  "cta": "Contact me",
+  "hero": {
+    "badge": "Available for new projects",
+    "t1": "I craft digital ",
+    "t2": "applications",
+    "t3": " that drive your business forward.",
+    "sous": "Web & mobile developer based in Cameroon. Building high-performance SaaS and custom applications, delivering faster with modern tooling.",
+    "rotation": ["Mobile Apps", "Custom SaaS", "Web Platforms", "Business Dashboards"],
+    "voir": "Explore my projects",
+    "defiler": "Scroll"
+  },
+  "chiffres": {
+    "projets": "projects delivered",
+    "plateformes": "Web & Mobile",
+    "reponse": "reply within 24h, remote worldwide"
+  },
+  "apropos": {
+    "titre": "About me",
+    "texte": "I'm Philip, a web & mobile developer based in Cameroon. I design and build modern, high-performance SaaS and mobile solutions crafted for local markets and ready for worldwide deployment. I specialize in Laravel, React, and React Native.",
+    "points": [
+      "Based in Cameroon, available worldwide",
+      "Laravel, React & React Native expertise",
+      "Fluent in French & English",
+      "Clean, documented, scalable code"
+    ]
+  },
+  "services": {
+    "titre": "Services",
+    "sous": "Everything you need to conceptualize, launch, and grow your digital product.",
+    "liste": [
+      { "t": "Mobile Applications", "d": "Fluid iOS & Android cross-platform apps with React Native." },
+      { "t": "Custom SaaS", "d": "Multi-tenant architectures, subscription billing, and automated workflows." },
+      { "t": "Web Development", "d": "Robust dynamic websites and web apps with Laravel and React." },
+      { "t": "Dashboards & ERP", "d": "Inventory, sales tracking, client management, and business analytics." },
+      { "t": "Databases & APIs", "d": "Solid relational modeling and secure REST APIs for third-party integrations." },
+      { "t": "Consulting & DevOps", "d": "Architectural advisory, high-availability hosting, and post-launch maintenance." }
+    ]
+  },
+  "methode": {
+    "badge": "Methodology & Efficiency",
+    "titre": "Agile & high-velocity development",
+    "sous": "Solid full-stack engineering expertise enhanced by modern AI tools to ship faster, with zero compromise on code quality.",
+    "etapes": [
+      { "t": "Scoping & Architecture", "d": "Precise domain analysis, database architecture, and tailored stack selection." },
+      { "t": "UI/UX Design", "d": "Refined, intuitive interfaces optimized for both mobile and web users." },
+      { "t": "Accelerated Development", "d": "Rapid prototyping and efficient scaffolding using modern AI coding tools." },
+      { "t": "Review & Rigorous Testing", "d": "Every component, query, and API is verified, tested, and secured by human hands." },
+      { "t": "Deployment & Iteration", "d": "Smooth production launches, continuous monitoring, and quick response to feedback." }
+    ],
+    "benefices": [
+      { "t": "Fast Time-to-Market", "d": "Significantly shortened development cycles to test your product quickly." },
+      { "t": "Clean, Owned Codebase", "d": "Maintainable, robust architecture fully validated by an engineer." },
+      { "t": "Optimized Budget", "d": "Maximum value per hour, eliminating wasted development cycles." },
+      { "t": "Responsive Support", "d": "Direct human collaboration and swift feature turnarounds." }
+    ]
+  },
+  "projets": {
+    "titre": "Featured Projects",
+    "sous": "Explore a curated selection of SaaS and mobile products built to solve real-world problems.",
+    "filtres": {
+      "tous": "All",
+      "mobile": "Mobile",
+      "web": "Web",
+      "saas": "SaaS"
+    },
+    "voir": "View Project",
+    "probleme": "Problem solved",
+    "fonctions": "Key features",
+    "technos": "Tech stack",
+    "demo": "Launch Live Demo",
+    "statut": {
+      "livre": "In Production",
+      "en cours": "In Development",
+      "concept": "Prototype / Concept"
+    }
+  },
+  "competences": {
+    "titre": "Skills & Technologies"
+  },
+  "processus": {
+    "titre": "Work Process",
+    "etapes": [
+      { "t": "Discovery", "d": "We define your core goals, user personas, and project scope." },
+      { "t": "Design", "d": "Technical blueprints, UX flows, and clear delivery milestones." },
+      { "t": "Development", "d": "Short sprint iterations with frequent, working interactive demos." },
+      { "t": "Handover", "d": "Production deployment, final testing, and knowledge transfer." },
+      { "t": "Support", "d": "Continuous technical assistance, maintenance, and future enhancements." }
+    ]
+  },
+  "pourquoi": {
+    "titre": "Why work with me",
+    "liste": [
+      "Direct, transparent communication",
+      "Strict adherence to deadlines and agreements",
+      "Experienced in remote work with international clients",
+      "Fluent in both French and English",
+      "Clean, secure, and documented code",
+      "Attentive post-delivery support"
+    ]
+  },
+  "temoignages": {
+    "titre": "Testimonials"
+  },
+  "contact": {
+    "badge": "Quick Contact",
+    "titre": "Let's build your project",
+    "sous": "Describe your idea or requirements. I'll get back to you within 24h with a clear estimate and practical advice.",
+    "nom": "Full name",
+    "nom_placeholder": "e.g. Patrick Mbia",
+    "email": "Email address",
+    "email_placeholder": "e.g. patrick@domain.com",
+    "type": "Project type",
+    "types": [
+      "Mobile App (React Native)",
+      "Custom SaaS Platform",
+      "Web Development (Laravel / React)",
+      "Dashboard & Management Tool",
+      "Other project"
+    ],
+    "budget": "Estimated budget (optional)",
+    "budget_placeholder": "e.g. 300,000 FCFA / $1,000",
+    "message": "Your message",
+    "message_placeholder": "Briefly share your idea, must-have features, or expected deadline...",
+    "envoyer": "Send Message",
+    "envoi": "Sending…",
+    "ok": "Your message has been sent successfully! I will reply very shortly.",
+    "erreur": "An error occurred while sending. Feel free to contact me directly via WhatsApp or email.",
+    "requis": "This field is required",
+    "wa": "Chat on WhatsApp",
+    "direct": "Direct contact:",
+    "garantie": "Reply within 24h · Available for local and remote projects"
+  },
+  "wa": {
+    "msg": "Hello Philip, I saw your portfolio and would like to discuss a project with you."
+  },
+  "footer": {
+    "phrase": "Web & mobile developer — High-performance SaaS & custom applications.",
+    "droits": "All rights reserved"
+  }
+}

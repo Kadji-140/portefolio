@@ -1,0 +1,151 @@
+{
+  "seo": {
+    "titre": "Philip — Développeur Web & Mobile | Cameroun"
+  },
+  "nav": [
+    { "id": "apropos", "l": "À propos" },
+    { "id": "services", "l": "Services" },
+    { "id": "methode", "l": "Méthode" },
+    { "id": "projets", "l": "Projets" },
+    { "id": "processus", "l": "Processus" }
+  ],
+  "cta": "Me contacter",
+  "hero": {
+    "badge": "Disponible pour de nouveaux projets",
+    "t1": "Je conçois des ",
+    "t2": "applications",
+    "t3": " qui font grandir votre activité.",
+    "sous": "Développeur web & mobile basé au Cameroun. Je conçois des SaaS performants et des applications sur mesure, avec une vitesse de livraison optimisée par les meilleurs outils modernes.",
+    "rotation": ["Applications mobiles", "SaaS sur mesure", "Sites & Plateformes", "Dashboards métier"],
+    "voir": "Voir mes projets",
+    "defiler": "Défiler"
+  },
+  "chiffres": {
+    "projets": "projets réalisés",
+    "plateformes": "Web & Mobile",
+    "reponse": "réponse sous 24h, remote worldwide"
+  },
+  "apropos": {
+    "titre": "À propos",
+    "texte": "Je suis Philip, développeur web & mobile basé au Cameroun. Je conçois et développe des applications Web et mobiles performantes, adaptées aux réalités du marché local et prêtes pour l'international. Je maîtrise particulièrement l'écosystème Laravel, React Js et React Native.",
+    "points": [
+      "Basé au Cameroun, disponible à l'international",
+      "Expertise Laravel, React & React Native",
+      "Bilingue français & anglais",
+      "Code propre, documenté et évolutif"
+    ]
+  },
+  "services": {
+    "titre": "Services",
+    "sous": "Tout ce qu'il faut pour concevoir, lancer et faire grandir votre produit numérique.",
+    "liste": [
+      { "t": "Applications mobiles", "d": "Applications iOS & Android fluides et natives avec React Native." },
+      { "t": "SaaS sur mesure", "d": "Plateformes multi-utilisateurs, abonnements et paiements intégrés." },
+      { "t": "Développement web", "d": "Sites et applications dynamiques avec Laravel et React." },
+      { "t": "Dashboards & gestion", "d": "Gestion de stocks, ventes, clients et automatisation de processus." },
+      { "t": "Bases de données & API", "d": "Modélisation relationnelle robuste et API sécurisées pour applications tierces." },
+      { "t": "Conseil & mise en production", "d": "Accompagnement technique, hébergement haute disponibilité et maintenance." }
+    ]
+  },
+  "methode": {
+    "badge": "Méthodologie & Efficacité",
+    "titre": "Un développement agile et optimisé",
+    "sous": "L'expertise technique d'un développeur full-stack, amplifiée par les outils d'IA modernes pour livrer plus vite, sans aucun compromis sur la qualité.",
+    "etapes": [
+      { "t": "Cadrage & Architecture", "d": "Définition précise du besoin métier, modélisation de données et choix de la stack adaptée." },
+      { "t": "Conception UI/UX", "d": "Interfaces soignées, intuitives et adaptées aux réalités des utilisateurs web et mobile." },
+      { "t": "Développement accéléré", "d": "Accélération du prototypage et du code avec l'appui des outils d'IA récents." },
+      { "t": "Revue & Tests rigoureux", "d": "Chaque ligne et API est contrôlée, testée et sécurisée par un développeur humain." },
+      { "t": "Déploiement & Évolution", "d": "Mise en ligne fluide, suivi des performances et prise en compte rapide de vos retours." }
+    ],
+    "benefices": [
+      { "t": "Livraison accélérée", "d": "Des semaines gagnées sur vos délais pour tester rapidement vos idées." },
+      { "t": "Code propre & maîtrisé", "d": "Une architecture saine, testée et pérenne sur le long terme." },
+      { "t": "Coûts optimisés", "d": "Un ratio valeur/temps maximal concentré sur les fonctionnalités clés." },
+      { "t": "Support réactif", "d": "Une collaboration humaine directe et des ajustements rapides." }
+    ]
+  },
+  "projets": {
+    "titre": "Projets & Réalisations",
+    "sous": "Découvrez une sélection de SaaS et d'applications mobiles conçus pour résoudre de vrais besoins.",
+    "filtres": {
+      "tous": "Tous",
+      "mobile": "Mobile",
+      "web": "Web",
+      "saas": "SaaS"
+    },
+    "voir": "Voir le projet",
+    "probleme": "Problème résolu",
+    "fonctions": "Fonctionnalités clés",
+    "technos": "Technologies utilisées",
+    "demo": "Accéder à l'application",
+    "statut": {
+      "livre": "En production",
+      "en cours": "En développement",
+      "concept": "Prototype / Concept"
+    }
+  },
+  "competences": {
+    "titre": "Compétences & Technologies"
+  },
+  "processus": {
+    "titre": "Processus de travail",
+    "etapes": [
+      { "t": "Échange", "d": "Nous échangeons sur vos objectifs, vos cibles et les fonctionnalités requises." },
+      { "t": "Conception", "d": "Architecture technique, ergonomie et plan d'exécution clair." },
+      { "t": "Développement", "d": "Développement itératif avec des démonstrations intermédiaires régulières." },
+      { "t": "Livraison", "d": "Déploiement en production, tests finaux et transmission de l'application." },
+      { "t": "Suivi", "d": "Assistance technique, maintenance et accompagnement sur les évolutions." }
+    ]
+  },
+  "pourquoi": {
+    "titre": "Pourquoi collaborer avec moi",
+    "liste": [
+      "Communication directe et transparente",
+      "Respect rigoureux des délais et des engagements",
+      "Habitude du travail à distance avec des clients du monde entier",
+      "Parfaitement bilingue français et anglais",
+      "Code propre, sécurisé et documenté",
+      "Accompagnement et support après la livraison"
+    ]
+  },
+  "temoignages": {
+    "titre": "Témoignages"
+  },
+  "contact": {
+    "badge": "Contact rapide",
+    "titre": "Parlons de votre projet",
+    "sous": "Décrivez votre idée ou votre besoin. Je vous réponds sous 24h avec une estimation claire et des conseils adaptés.",
+    "nom": "Nom complet",
+    "nom_placeholder": "ex. Patrick Mbia",
+    "email": "Adresse e-mail",
+    "email_placeholder": "ex. patrick@domaine.com",
+    "type": "Type de projet",
+    "types": [
+      "Application mobile (React Native)",
+      "SaaS sur mesure",
+      "Développement web (Laravel / React)",
+      "Dashboard & outil de gestion",
+      "Autre projet"
+    ],
+    "budget": "Budget indicatif (facultatif)",
+    "budget_placeholder": "ex. 300 000 FCFA / 1 000 €",
+    "message": "Votre message",
+    "message_placeholder": "Présentez brièvement votre idée, vos fonctionnalités indispensables ou vos délais...",
+    "envoyer": "Envoyer ma demande",
+    "envoi": "Envoi en cours…",
+    "ok": "Votre message a été envoyé avec succès ! Je reviens vers vous très rapidement.",
+    "erreur": "Une erreur est survenue lors de l'envoi. Contactez-moi directement via WhatsApp ou e-mail.",
+    "requis": "Ce champ est obligatoire",
+    "wa": "Discuter sur WhatsApp",
+    "direct": "Contact direct :",
+    "garantie": "Réponse sous 24h · Disponible pour missions locales & à distance"
+  },
+  "wa": {
+    "msg": "Bonjour Philip, j'ai vu votre portfolio et j'aimerais échanger sur un projet avec vous."
+  },
+  "footer": {
+    "phrase": "Développeur web & mobile — SaaS & applications sur mesure.",
+    "droits": "Tous droits réservés"
+  }
+}
